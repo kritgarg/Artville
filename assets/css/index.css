@@ -64,3 +64,13 @@ body{
     height: 50vh;
     width: 100%;
 }
+.pallax-img-1{
+    background-image: url('https://rosshillart.com/cdn/shop/articles/R._Delino_Landscape_art_-_Rosshillart.com_2200x.jpg?v=1703181542');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 50vh;
+    width: 100%;
+}
