@@ -1,8 +1,8 @@
-# end-term-project  
+# End-Term-Project  
 
-# hello this is our END term s&w project , this project is on digital art gallery theme. 
+# Hello this is our END term S&W project , this project is on digital art gallery theme majourly made from Bootstrap 5. 
 
-# this project is made by :
+# This project is made by :
 
 # Krit Garg 
 # Harsh Hirawat 
